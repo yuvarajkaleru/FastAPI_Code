@@ -1,1 +1,1 @@
-Hello GitHub! 
+This Repo shows FAstApi Learing Code 
