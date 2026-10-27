@@ -1,1 +1,1 @@
-This Repo shows FAstApi Learing Code 
+This Repo shows FastAPI Learing Code 
